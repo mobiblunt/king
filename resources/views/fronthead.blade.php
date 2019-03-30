@@ -1,118 +1,80 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-
-<!-- Mirrored from www.escrowcustodianservices.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Feb 2019 22:16:16 GMT -->
+<!DOCTYPE html> <!--[if lt IE 7]><html class="ie6" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]--> <!--[if IE 7]><html class="ie7" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]--> <!--[if IE 8]><html class="ie8" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]--> <!--[if IE 9]><html class="ie9" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]--> <!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<!-- Mirrored from www.KingsTrustescrow.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 Mar 2019 20:37:44 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href='https://fonts.googleapis.com/css?family=Raleway:400,200,200italic,300,300italic,400italic,500italic,500' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{ url('/') }}/wp-content/themes/escrowcustodianservices/buildclass.css" media="all">
-<link rel="stylesheet" href="{{ url('/') }}/wp-content/themes/escrowcustodianservices/style.css">
-<!--[if lte IE 9]>
-        <link rel="stylesheet" href="http://www.escrowcustodianservices.co.uk/wp-content/themes/escrowcustodianservices/ie.css" media="all">
-        <script src="http://www.escrowcustodianservices.co.uk/wp-content/themes/escrowcustodianservices/js/html5shiv.min.js"></script>
-        <script src="http://www.escrowcustodianservices.co.uk/wp-content/themes/escrowcustodianservices/js/css3-multi-column.min.js"></script>
-<![endif]-->
+<head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="format-detection" content="telephone=no"><link rel="profile" href="http://gmpg.org/xfn/11" /><link rel="pingback" href="xmlrpc.php" /><link href="../maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Karla:400,700|Poppins:300,400,500" rel="stylesheet"><link type="text/css" media="all" href="wp-content/uploads/autoptimize/css/autoptimize_6ed6560b30f256edd42ec893ebe52b31.css" rel="stylesheet" /><link type="text/css" media="screen" href="wp-content/uploads/autoptimize/css/autoptimize_769771e6413a45b3e8d6346359ab4285.css" rel="stylesheet" /><title>@yield('title')</title>  <script data-cfasync="false" type="text/javascript">//
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//</script> <meta name="description" content="KingsTrust Escrow provides safe and secure escrow services to buying and selling online."/><link rel="canonical" href="/" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="website" /><meta property="og:title" content="Online Escrow Service - KingsTrust" /><meta property="og:description" content="KingsTrust Escrow provides safe and secure escrow services to buying and selling online." /><meta property="og:url" content="https://www.KingsTrustescrow.com/" /><meta property="og:site_name" content="KingsTrust" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:description" content="KingsTrust Escrow provides safe and secure escrow services to buying and selling online." /><meta name="twitter:title" content="Online Escrow Service - KingsTrust" /><meta name="twitter:image" content="https://KingsTrustescrow.com/wp-content/uploads/2018/04/Wheel-vehicles-2.png" /> <script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.KingsTrustescrow.com/#website","url":"https://www.KingsTrustescrow.com/","name":"KingsTrust","potentialAction":{"@type":"SearchAction","target":"https://www.KingsTrustescrow.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script> <meta name="google-site-verification" content="pM780QkTbaM40_WlxYayKZIHSsCk5UEyv_l7xrYW1bM" /><link rel='dns-prefetch' href='/' /><link rel='dns-prefetch' href='http://fonts.googleapis.com/' /><link rel='dns-prefetch' href='http://s.w.org/' /><link rel="alternate" type="application/rss+xml" title="KingsTrust &raquo; Feed" href="feed/index.html" /><link rel="alternate" type="application/rss+xml" title="KingsTrust &raquo; Comments Feed" href="comments/feed/index.html" /> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.KingsTrustescrow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script> <link rel='stylesheet' id='tp-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&amp;ver=5.1' type='text/css' media='all' /><link rel='stylesheet' id='tp-raleway-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;ver=5.1' type='text/css' media='all' /><link rel='stylesheet' id='tp-droid-serif-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&amp;ver=5.1' type='text/css' media='all' /><link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Roboto%3Alighter%2Cnormal%2Csemi-bold%2Cbold%7CUbuntu%3Alighter%2Cnormal%2Csemi-bold%2Cbold&amp;ver=5.1' type='text/css' media='all' /><link rel='stylesheet' id='popup-maker-site-css'  href='wp-content/uploads/autoptimize/css/autoptimize_single_3f7bc8fb08a864c209642aeb084514159696.css?generated&amp;ver=1.8.3' type='text/css' media='all' /> <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script> <link rel='https://api.w.org/' href='wp-json/index.html' /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordPress 5.1" /><link rel='shortlink' href='/' /><link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embede036.json?url=https%3A%2F%2Fwww.KingsTrustescrow.com%2F" /><link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed37d7?url=https%3A%2F%2Fwww.KingsTrustescrow.com%2F&amp;format=xml" /> <script type="text/javascript">(function () {
+        var queryString = decodeURIComponent(window.location.search.substring(1));
+        var variables = queryString.split('&');
 
-<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>@yield('title')</title>
-<meta name="description" content="Escrow Custodian Services (ECS) is one of the UK’s leading providers of escrow, custodian and payment services. ECS is regulated by the FCA."/>
-<link rel="canonical" href="/" />
-<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"http://www.escrowcustodianservices.co.uk/#website","url":"http://www.escrowcustodianservices.co.uk/","name":"Escrow Custodian Services","potentialAction":{"@type":"SearchAction","target":"http://www.escrowcustodianservices.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"http://www.escrowcustodianservices.co.uk/","sameAs":[],"@id":"http://www.escrowcustodianservices.co.uk/#organization","name":"Escrow Custodian Services Limited","logo":""}</script>
-<!-- / Yoast SEO plugin. -->
+        for (var i = 0; i < variables.length; i++) {
+            var parameter = variables[i].split('=');
+
+            if (parameter[0] === "p") {
+                //Temp fix for partner issue
+                if (parameter[1] === "shpcost") {
+                    queryString = queryString.replace("shpcost", "shp&cost");
+                    window.location.href = "" + queryString;
+                    break;
+                } else if (parameter[1] === "shp") {
+                    window.location.href = "" + queryString;
+                    break;
+                }
+                else {
+                    window.location.href = "" + queryString;
+                }
+            }
+        }
+    })();</script>  <script data-cfasync="false" type="text/javascript">//
+	dataLayer.push({"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Matt Medlock"});//</script> <script data-cfasync="false">//
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HP68QQ');//</script> <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/> <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.KingsTrustescrow.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="wp-content/uploads/2018/03/cropped-favicon-KingsTrust-32x32.png" sizes="32x32" /><link rel="icon" href="wp-content/uploads/2018/03/cropped-favicon-KingsTrust-192x192.png" sizes="192x192" /><link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2018/03/cropped-favicon-KingsTrust-180x180.png" /><meta name="msapplication-TileImage" content="https://www.KingsTrustescrow.com/wp-content/uploads/2018/03/cropped-favicon-KingsTrust-270x270.png" /> <noscript><style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head><body class="home page-template page-template-page-full-width page-template-page-full-width-php page page-id-105 wpb-js-composer js-comp-ver-5.4.5 vc_responsive"><div class="mobile-cta"> <a href="{{ route('auth.register.form') }}" traget="_blank">Start my transaction</a></div><div id="wrapper"><header id="site-header" class="" role="banner"><div id="header-wrapper"><div id="header-container" class="clearfix"> <a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-secondary ubermenu-skin-minimal ubermenu-loc-secondary-menu ubermenu-responsive-toggle-content-align-right ubermenu-responsive-toggle-align-right " data-ubermenu-target="ubermenu-secondary-32-secondary-menu-2"><i class="fas fa-bars"></i>Menu</a><nav id="ubermenu-secondary-32-secondary-menu-2" class="ubermenu ubermenu-nojs ubermenu-secondary ubermenu-menu-32 ubermenu-loc-secondary-menu ubermenu-responsive ubermenu-responsive-single-column ubermenu-responsive-single-column-subs ubermenu-responsive-991 ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover ubermenu-skin-minimal  ubermenu-bar-align-full ubermenu-items-align-auto ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-secondary-32-secondary-menu" class="ubermenu-nav"><li id="menu-item-5162" class="search-bar ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-5162 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><ul class="ubermenu-content-block ubermenu-widget-area ubermenu-autoclear"><li id="search-6" class="widget widget_search ubermenu-column-full ubermenu-widget ubermenu-column ubermenu-item-header"><div class="searchform-wrapper"></div></li></ul></li>
+@if (Sentinel::check() && Sentinel::inRole('administrator'))
+                            
+                                
+                                
+                                <li id="menu-item-2368" class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2368 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('users.index') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Users</span></a></li>
+                                
+                                
+                           
+                                
+                                <li id="menu-item-2368" class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2368 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('roles.index') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Roles</span></a></li>
+                        @endif
+
+ @if (Sentinel::check())
+                            
+                            
+                            
+                            
+                            <li id="menu-item-2368" class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2368 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.logout') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Logout</span></a></li><li id="menu-item-2369" class="signup-button ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2369 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('dashboard') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Dashboard</span></a></li>
+                            
+
+                        @else
+
+                                <li id="menu-item-2368" class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2368 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.login.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Login</span></a></li><li id="menu-item-2369" class="signup-button ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2369 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.register.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Start My Transaction</span></a></li>
+                                @endif
 
 
 
-        <script type="text/javascript">
-            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.escrowcustodianservices.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.1"}};
-            !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-        </script>
-        <style type="text/css">
-img.wp-smiley,
-img.emoji {
-    display: inline !important;
-    border: none !important;
-    box-shadow: none !important;
-    height: 1em !important;
-    width: 1em !important;
-    margin: 0 .07em !important;
-    vertical-align: -0.1em !important;
-    background: none !important;
-    padding: 0 !important;
-}
-</style>
-<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min972f.css?ver=5.0.1' type='text/css' media='all' />
-<script type='text/javascript' src='{{ url('/') }}/wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='{{ url('/') }}/wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-<link rel='https://api.w.org/' href='{{ url('/') }}/wp-json/index.html' />
-
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="{{ url('/') }}/wp-includes/wlwmanifest.xml" /> 
 
 
 
-</head>
-<body class="home page-template-default page page-id-2" itemscope itemtype="http://schema.org/FinancialProduct">
-    <div id="page-wrapper">
-        <div id="header">
-            <div class="row-90">
-                <div id="logo">
-                    <a href="/" title="Escrow Custodian Services">
-                        <img src="{{ url('/') }}/wp-content/themes/escrowcustodianservices/images/logo.png" alt="Escrow Custodian Services desktop logo" class="desktop-logo">
-                        <img src="{{ url('/') }}/wp-content/themes/escrowcustodianservices/images/logo-mobile.png" alt="Escrow Custodian Services mobile logo" class="mobile-logo">
-                    </a>
-                </div>
-                <div class="contact-options desktop-contact">
-                    <div class="phone">
-                        <img src="{{ url('/') }}/wp-content/themes/escrowcustodianservices/images/phone.png" alt="Escrow Custodian Service phone"/>
-                        <span>0207 856 0129</span>
-                    </div>
-                    
-                    <div class="button-1">
-                        <a href="{{ route('auth.login.form') }}">Login</a>
-                    </div>
+</ul></nav><div id="site-logo"> <a href="/"><img src="wp-content/uploads/2018/03/lago.png" alt="KingsTrust" /></a></div> <a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-minimal ubermenu-loc-primary ubermenu-responsive-toggle-content-align-right ubermenu-responsive-toggle-align-right " data-ubermenu-target="ubermenu-main-2-primary-2"><i class="fas fa-bars"></i>Menu</a><nav id="ubermenu-main-2-primary-2" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-2 ubermenu-loc-primary ubermenu-responsive ubermenu-responsive-single-column ubermenu-responsive-single-column-subs ubermenu-responsive-991 ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover ubermenu-skin-minimal  ubermenu-bar-align-full ubermenu-items-align-auto ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-main-2-primary" class="ubermenu-nav"><li id="menu-item-5862" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5862 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('home.how') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">How it Works</span></a></li><li id="menu-item-5156" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-5156 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Escrow Services</span><i class="ubermenu-sub-indicator fas fa-angle-down"></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-5156 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li class="  ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5374 ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5374"><ul  class="ubermenu-submenu ubermenu-submenu-id-5374 ubermenu-submenu-type-stack"  ><li id="menu-item-5481" class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5481 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('vehicle.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Vehicle</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Safe and secure escrow transactions of cars, trucks, SUVs, motorcycles or other vehicles.</div></li><li id="menu-item-5480" class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5480 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('steps.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Heavy Equipment</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Buy and sell construction and agricultural equipment with our safe payment processing platform.</div></li></ul></li><li class="  ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5375 ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5375"><ul  class="ubermenu-submenu ubermenu-submenu-id-5375 ubermenu-submenu-type-stack"  ><li id="menu-item-5479" class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5479 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('robots.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Boat</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Buying or selling a boat online is a secure and seamless process with KingsTrust Escrow.</div></li><li id="menu-item-5478" class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5478 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('affiliate.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Machinery</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"> Whether it’s CNC machines, lathes or medical equipment, transact confidently with our easy-to-use process.</div></li></ul></li><li class="  ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5835 ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5835"><ul  class="ubermenu-submenu ubermenu-submenu-id-5835 ubermenu-submenu-type-stack"  ><li id="menu-item-5834" class="sub-title-b ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-5834 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('contact.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Other Transactions</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">KingsTrust® facilitates the sales of a variety of items, including art and collectibles, cryptocurrency and more. Contact Us for more information.</div></li></ul></li></ul></li><li id="menu-item-5155" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5155 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('faq.home') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">FAQs</span></a></li><li id="menu-item-2832" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2832 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('api.home') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">API</span></a></li><li id="menu-item-5798" class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-5798 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-hide-desktop" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.login.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Login</span></a></li><li id="menu-item-5199" class="signup-button ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-5199 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.register.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Start My Transaction</span></a></li></ul></nav></div></div></header>
 
-                    <div class="button-1">
-                        <a href="{{ route('auth.register.form') }}">Sign Up</a>
-                    </div>
-                </div>
-                <nav>
-                    <div class="toggle"></div>
-                    <div class="contact-options mobile-contact">
-                        <div class="phone">
-                            <img src="{{ url('/') }}/wp-content/themes/escrowcustodianservices/images/phone.png" alt="Escrow Custodian Services phone"/>
-                            <span>0207 856 0129</span>
-                        </div>
-                        <div class="button-1">
-                        <a href="{{ route('auth.login.form') }}">Login</a>
-                    </div>&nsbp; &nsbp;
 
-                    <div class="button-1">
-                        <a href="{{ route('auth.register.form') }}">Sign Up</a>
-                    </div>
-                    </div>
-                    <div class="menu-header-container"><ul id="menu-header" class="nav"><li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-8"><a href="/">Home</a></li>
-<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="{{ route('about.home') }}">About Us</a></li>
-<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">Escrow Services</a>
-<ul class="sub-menu">
-    <li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="{{ route('steps.home') }}">Aircraft Escrows</a></li>
-    <li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="{{ route('robots.home') }}">Boat Escrows</a></li>
-    <li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="{{ route('affiliate.home') }}">Commercial Escrows</a></li>
-    <li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="{{ route('construction.home') }}">Construction Escrows</a></li>
-    <li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="{{ route('industry.home') }}">Industrial Escrows</a></li>
-    <li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="{{ route('online.home') }}">Online Escrows</a></li>
-    <li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="{{ route('property.home') }}">Property Escrows</a></li>
-    <li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="{{ route('vehicle.home') }}">Vehicle Escrows</a></li>
-</ul>
-</li>
-<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="{{ route('agents.home') }}">Introducers and Agents</a></li>
-<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="{{ route('money.home') }}">Anti-Money Laundering</a></li>
-<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="{{ route('escrows.home') }}">What Are Escrows</a></li>
-<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="{{ route('news.home') }}">News</a></li>
-</ul></div>             </nav>
-            </div>
-        </div>
+
+
+
+
+
+
+
+
 
          @include('Centaur::notifications')
             @yield('content')
@@ -121,31 +83,85 @@ img.emoji {
 
 
 
-<div id="footer" class="pt-30 bc-black">
-    <div class="row-90 bb-light-grey">
-        <div class="content-1 fc-white pb-100">
-            <p class="tac w-60 ctr"><strong>Escrow Custodian Services Limited</strong> is regulated by the Financial Conduct Authority, bearing FCA Registration Number 784390.</p>
-        </div>
-    </div>
-    <div class="row-90 fs-14">
-        <div class="column-12-24">
-            <div class="content-1 py-10 link">
-                <span><a href="#" title="Cookie Policy">Cookie Policy</a> | <a href="{{ route('terms.home') }}" title="Terms and Conditions">Terms and Conditions</a> | <a href="{{ route('privacy.home') }}" title="Privacy Policy">Privacy Policy</a></span>
-            </div>
-        </div>
-        <div class="column-12-24">
-            <div class="content-1 pt-10 pb-20 tar link">
-                <span><a href="http://www.plainlogic.co.uk/" title="Website Design in Suffolk" target="_blank">Web Design</a> by Plain Logic</span>
-            </div>
-        </div>
-    </div>
-</div>
-</div><!-- End page wrapper -->
-
-<script type='text/javascript' src='{{ url('/') }}/wp-content/plugins/contact-form-7/includes/js/scripts3c21.js?ver=5.1.1'></script>
-<script type='text/javascript' src='{{ url('/') }}/wp-content/themes/escrowcustodianservices/js/responsive_menu972f.js?ver=5.0.1'></script>
-<script type='text/javascript' src='{{ url('/') }}/wp-includes/js/wp-embed.min972f.js?ver=5.0.1'></script>
-</body>
 
 
+<footer class="site-footer"><div class="wpb_row"><div class="footer-sidebar"><div class="row-inner"><div class="vc_col-sm-12"><div class="widget-area"><aside id="text-11" class="widget widget_text"><div class="textwidget"><p style="text-align: center; vertical-align:middle; font-weight: normal; padding: 10px; text-decoration: none;"><a href="{{ route('contact.home') }}">CONTACT US</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="{{ route('about.home') }}">ABOUT US</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="{{ route('terms.home') }}">TERMS OF USE</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="{{ route('privacy.home') }}">PRIVACY POLICY</a> &nbsp; &nbsp; | &nbsp; &nbsp;  <a href="https://www.facebook.com/KingsTrust/" style="text-decoration:none;"><img src="https://paysafeescrow.com/wp-content/uploads/2018/03/icon-fb-1.png" style="width: 35px; vertical-align: middle; padding-left: 10px;"></a> <a href="https://twitter.com/KingsTrust" style="text-decoration:none;"><img src="https://paysafeescrow.com/wp-content/uploads/2018/03/icon-tw-1.png" style="width: 35px; vertical-align: middle; padding-left: 10px;"></a> <a href="https://www.linkedin.com/company/KingsTrust/" style="text-decoration:none;"><img src="https://paysafeescrow.com/wp-content/uploads/2018/03/icon-li-1.png" style="width: 35px; vertical-align: middle; padding-left: 10px;"></a></p><p style="text-align: center;"><a href="https://www.bbb.org/us/co/denver/profile/escrow-services/KingsTrust-0885-90256855" target="_blank"><img src="https://paysafeescrow.com/wp-content/uploads/2018/03/BBB-footer-icon.png" style="width: 120px; ;"></a>&nbsp; &nbsp; <script type="text/javascript" src="https://seal.geotrust.com/getgeotrustsslseal?host_name=paysafeescrow.com&amp;size=S&amp;lang=en"></script></p><p style="text-align: center; font-weight: normal; margin-top: -35px; font-size: 12px; color: #8590a5;">© 2017-2019 Accruit, LLC   All Rights Reserved.</p></div></aside></div></div></div></div><div class="site-info"><div class="row-inner"><aside id="text-12" class="widget widget_text"><div class="textwidget">© Quince WordPress Theme Demo by MNKY Studio. All Rights Reserved.</div></aside></div></div></div></footer><nav id="mobile-site-navigation" role="navigation"> <a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-minimal ubermenu-loc-primary ubermenu-responsive-toggle-content-align-right ubermenu-responsive-toggle-align-right " data-ubermenu-target="ubermenu-main-2-primary-4"><i class="fas fa-bars"></i>Menu</a><nav id="ubermenu-main-2-primary-4" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-2 ubermenu-loc-primary ubermenu-responsive ubermenu-responsive-single-column ubermenu-responsive-single-column-subs ubermenu-responsive-991 ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover ubermenu-skin-minimal  ubermenu-bar-align-full ubermenu-items-align-auto ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-main-2-primary" class="ubermenu-nav"><li class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5862 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('home.how') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">How it Works</span></a></li><li class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-5156 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Escrow Services</span><i class="ubermenu-sub-indicator fas fa-angle-down"></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-5156 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li class="  ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5374 ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5374"><ul  class="ubermenu-submenu ubermenu-submenu-id-5374 ubermenu-submenu-type-stack"  ><li class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5481 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('vehicle.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Vehicle</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Safe and secure escrow transactions of cars, trucks, SUVs, motorcycles or other vehicles.</div></li><li class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5480 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('steps.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Heavy Equipment</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Buy and sell construction and agricultural equipment with our safe payment processing platform.</div></li></ul></li><li class="  ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5375 ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5375"><ul  class="ubermenu-submenu ubermenu-submenu-id-5375 ubermenu-submenu-type-stack"  ><li class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5479 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('robots.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Boat</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Buying or selling a boat online is a secure and seamless process with KingsTrust® Escrow.</div></li><li class="sub-title-b ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5478 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('affiliate.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Machinery</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"> Whether it’s CNC machines, lathes or medical equipment, transact confidently with our easy-to-use process.</div></li></ul></li><li class="  ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-5835 ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-5835"><ul  class="ubermenu-submenu ubermenu-submenu-id-5835 ubermenu-submenu-type-stack"  ><li class="sub-title-b ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-5834 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('contact.home') }}"><span class="ubermenu-target-title ubermenu-target-text">Other Transactions</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">KingsTrust® facilitates the sales of a variety of items, including art and collectibles, domain names and more. Contact Us for more information.</div></li></ul></li></ul></li><li class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-5155 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('faq.home') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">FAQs</span></a></li><li class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2832 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('api.home') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">API</span></a></li><li class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-5798 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-hide-desktop" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="auth.login.form" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Login</span></a></li><li class="signup-button ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-5199 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.register.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Start My Transaction</span></a></li></ul></nav> <a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-secondary ubermenu-skin-minimal ubermenu-loc-secondary-menu ubermenu-responsive-toggle-content-align-right ubermenu-responsive-toggle-align-right " data-ubermenu-target="ubermenu-secondary-32-secondary-menu-4"><i class="fas fa-bars"></i>Menu</a><nav id="ubermenu-secondary-32-secondary-menu-4" class="ubermenu ubermenu-nojs ubermenu-secondary ubermenu-menu-32 ubermenu-loc-secondary-menu ubermenu-responsive ubermenu-responsive-single-column ubermenu-responsive-single-column-subs ubermenu-responsive-991 ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover ubermenu-skin-minimal  ubermenu-bar-align-full ubermenu-items-align-auto ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-secondary-32-secondary-menu" class="ubermenu-nav"><li class="search-bar ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-5162 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><ul class="ubermenu-content-block ubermenu-widget-area ubermenu-autoclear"><li id="search-6" class="widget widget_search ubermenu-column-full ubermenu-column-full ubermenu-widget ubermenu-column ubermenu-item-header"><div class="searchform-wrapper"></div></li></ul></li><li class="far fa-user login ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2368 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.login.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Login</span></a></li><li class="signup-button ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2369 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="{{ route('auth.register.form') }}" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Start My Transaction</span></a></li></ul></nav></nav></div> <a href="#top" class="scrollToTop"><i class="fa fa-chevron-up"></i></a><div id="pum-3391" class="pum pum-overlay pum-theme-3366 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:3391,&quot;slug&quot;:&quot;home-page-video&quot;,&quot;theme_id&quot;:3366,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;70%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;75%&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" ><div id="popmake-3391" class="pum-container popmake theme-3366 pum-responsive pum-responsive-medium responsive size-medium"><div class="pum-content popmake-content"><p style="text-align: center;"><iframe src="https://player.vimeo.com/video/65175048?title=0&amp;byline=0&amp;portrait=0" width="100%" height="500px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></div> <button type="button" class="pum-close popmake-close" aria-label="Close"> × </button></div></div> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HP68QQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <script type='text/javascript'>var wpcf7 = {"apiSettings":{"root":"https:\/\/www.KingsTrustescrow.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};</script> <script type='text/javascript'>var ctcc_vars = {"expiry":"30","method":"1","version":"1"};</script> <script type='text/javascript'>var objectL10n = {"title":"Menu"};</script> <script type='text/javascript'>var pum_vars = {"version":"1.8.3","ajaxurl":"https:\/\/www.KingsTrustescrow.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.KingsTrustescrow.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"3361","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "index.html\/\/www.KingsTrustescrow.com\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript","cf7_form_success":"Contact Form 7 Success"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.KingsTrustescrow.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-3391":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":true,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_overlay_click":true,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"theme_id":"3366","size":"medium","responsive_min_width":"0%","responsive_max_width":"70%","custom_width":"75%","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","cookies":[],"theme_slug":"lightbox","id":3391,"slug":"home-page-video"}};</script> <script type='text/javascript'>var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"991","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.4","configurations":["secondary","main"],"ajax_url":"https:\/\/www.KingsTrustescrow.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.KingsTrustescrow.com\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","aria_role_navigation":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","theme_locations":{"primary":"Main Navigation","secondary-menu":"Secondary Menu"}};</script> <script type="text/javascript">jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-bottom-bar");
+							$("html").addClass("cookie-bar-bar");
+													}
+																	});</script> <div id="catapult-cookie-bar" class=""><div class="ctcc-inner "><span class="ctcc-left-side">This website uses cookies to enhance your browsing experience. By continuing, you agree to the use of cookies and collection of information as described in our Privacy Policy. To disable the use of cookies, please adjust your browser settings. <a class="ctcc-more-info-link" tabindex=0 target="_blank" href="{{ route('privacy.home') }}">Read Privacy Policy</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0 onclick="catapultAcceptCookies();">OK</button></span></div></div><script type="text/javascript" src="../cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>  <script>jQuery('.mobile-cta').hide();
+ jQuery(window).resize(function(){
+	 if(jQuery(window).width()<975){
+		 console.log('Yes!!!!');
+		 jQuery( "#ubermenu-secondary-32-secondary-menu-2" ).appendTo( "#header-container" );
+	 }else{
+		 jQuery( "#ubermenu-secondary-32-secondary-menu-2" ).insertBefore("#site-logo");
+	 }
+ })
+ 
+ if(jQuery(window).width()<975){
+      console.log('Yes!!!!');
+      jQuery( "#ubermenu-secondary-32-secondary-menu-2" ).appendTo( "#header-container" );
+ }
+ 
+ jQuery(document).ready(function() {
+ 	jQuery('.mobile-cta').hide();
+ 	if(jQuery(window).width()<767){
+ 		    jQuery('.mobile-cta').hide();
+	
+			// Scroll to top button
+			jQuery(window).scroll(function(){
+				if (jQuery(this).scrollTop() > 400) {
+					jQuery('.mobile-cta').addClass('show-button');
+					jQuery('.mobile-cta').fadeIn();
+				} else {
+					jQuery('.mobile-cta').removeClass('show-button');
+					jQuery('.mobile-cta').fadeOut();
+				}
+			});
+	}
+
+	"use strict"; //satisfy the code inspectors
+	 jQuery(window).resize(function(){
+	 	if(jQuery(window).width()<767){
+	
+			// Scroll to top button
+			jQuery(window).scroll(function(){
+				if (jQuery(this).scrollTop() > 400) {
+					jQuery('.mobile-cta').addClass('show-button');
+					jQuery('.mobile-cta').fadeIn();
+				} else {
+					jQuery('.mobile-cta').removeClass('show-button');
+					jQuery('.mobile-cta').fadeOut();
+				}
+			});
+		}
+	});
+
+
+	//fix firefox nav menu issue
+	if(jQuery.browser.mozilla){
+		console.log('FFFFFFFirfox!');
+		jQuery('.page-id-5219 #ubermenu-main-2-primary-2').css('margin-top','-28px');
+		jQuery('.page-id-5219 .ubermenu-submenu-id-5156').css('margin-top','-14px');
+		jQuery('.page-id-5219 .ubermenu-submenu-id-2587').css('margin-top','-14px');
+
+
+        jQuery('.page-id-5241 #header-container').addClass('set-header-height');
+		jQuery('.page-id-5241 #ubermenu-main-2-primary-2').css('margin-top','-28px');
+		jQuery('.page-id-5241 .ubermenu-submenu-id-5156').css('margin-top','-14px');
+		jQuery('.page-id-5241 .ubermenu-submenu-id-2587').css('margin-top','-14px');
+		
+	}else{
+		console.log('not!!!!');
+	}
+});</script> <script type="text/javascript" defer src="wp-content/uploads/autoptimize/js/autoptimize_bc1f75abdae5f8b8c9abe17ea7b2fce3.js"></script></body>
+<!-- Mirrored from www.KingsTrustescrow.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 Mar 2019 20:38:37 GMT -->
 </html>

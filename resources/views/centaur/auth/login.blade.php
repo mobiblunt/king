@@ -5,7 +5,7 @@
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
-        <title>Escrow Custodian Services</title>
+        <title>KingsTrust Escrow - Login</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
@@ -79,7 +79,7 @@
                 <div class="grid grid--container">
                     <div class="authorization authorization--login">
                         <a class="site-logo" href="/">
-                            <img class="img-responsive"  src="{{ url('/') }}/wp-content/themes/escrowcustodianservices/images/logo.png" alt="Escrow Custodian Services">
+                            <img class="img-responsive"  src="wp-content/uploads/2018/03/lago.png" alt="KingsTrust">
                         </a>
 
                         <form class="authorization__form" accept-charset="UTF-8" role="form" method="post" action="{{ route('auth.login.attempt') }}">

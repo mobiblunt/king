@@ -6,45 +6,6 @@
 
 
 
-<div class="row-90">
-	<div class="tagline mb-150">
-		<h1 class="fs-48 fw-200 tac">Vehicle Escrows</h1>
-	</div>
-</div>
-<div class="bc-white py-40">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="tac wdt-80 ctr fs-18">Escrow Custodian Services is able to offer a regulated and UK-based escrow for vehicles.</p>
-<p class="tac wdt-80 ctr fs-18"> </p>
-<p class="tac wdt-80 ctr fs-18">Escrows, as we know, may be used to transfer ownership of many things &#8211; from property to companies, and from commodities to vehicles.</p>
-<p class="tac wdt-80 ctr fs-18"> </p>
-<p class="tac wdt-80 ctr fs-18">Within this site we have already discussed online sales within the internet escrow pages, and this section is concentrated more upon purchases of vehicles in private sales, vintage vehicles, company vehicles (such as JCBs, trucks, and fork trucks etc.), and vehicles purchased overseas.</p>
-		</div>
-	</div>
-</div>
-<div class="pb-40 bc-white">
-	<div class="row-90">
-		<div class="fluid-columns-1">
-			<div class="content-1 fluid-column-1">
-				<p class="fs-48 fw-200"><span class="fc-grey">Common practice in the United States</span></p>
-<p>&nbsp;</p>
-<p>Vehicle escrows have seen wide use in the United States, where traditionally a cheque is made for the purchase prior to title transfer, but now it is common practice to place the money into an escrow, guaranteeing safety until all the paperwork is completed.</p>
-			</div>
-			<div class="content-1 fluid-column-1">
-				<p class="fs-48 fw-200"><span class="fc-grey">Overseas purchases, supercars, vintage and classic cars</span></p>
-<p>&nbsp;</p>
-<p>When it comes to purchasing vehicles overseas, many purchasers and sellers have found Letters of Credit difficult and at times impractical, but with a secure escrow account the transaction can be relatively straight-forward. This may involve ensuring delivery takes place, ensuring that the conditions are met, and that the ownership titles are in order, and, of course, that the vehicle is what it purports to be. </p>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="bc-white pb-40">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="fs-20 tac wdt-70 ctr">To learn more or to discuss a specific application (without obligation) call <strong>0207 856 0129</strong> and speak to a member of the Escrow Custodian Services team or email support@escrowcustodianservices.net</p>
-		</div>
-	</div>
-</div>
-
+<div id="main" class="clearfix"><div class="header-wrap" style="background: url('../wp-content/uploads/2018/07/vehicles-escrow-banner-2.jpg') no-repeat; background-size: cover;"><header class="entry-header"><h1 class="entry-title">Vehicle Escrow Services</h1> <br /><p style="text-align: center;"><a href="{{ route('auth.register.form') }}"><button class="btn-account">CREATE FREE ACCOUNT</button></a></p></header></div><div id="container" class="row-inner"><div id="content" class="float-right"><article id="post-5219" class="clearfix post-5219 page type-page status-publish has-post-thumbnail hentry" role="article"><div class="entry-content clearfix"><section  class="wpb_row main_row  no-seperator" style="text-align:left; background-color:#ffffff; color:#444751; padding-top:0px; padding-bottom:60px;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><p>Buying or selling a vehicle is a significant event and buyers and sellers alike want assurance that such a transaction will go smoothly. KingsTrust<sup style="font-size: 9px;">®</sup> provides an easy-to-use process that makes transferring ownership safe, secure and simple. Whether it&#8217;s a car, truck, SUV or motorcycle, buyers can be assured that the vehicle they receive is as advertised, and sellers can rest easy knowing that they&#8217;ll be paid at the transaction&#8217;s end. Kingstrust<sup style="font-size: 9px;">®</sup> even handles transactions in which the seller has a loan on the vehicle or the buyer requires a loan. KingsTrust<sup style="font-size: 9px;">®</sup> gives both buyer and seller the confidence that the transaction is conducted according to agreed upon terms.</p></div></div></div></div></div></div><div class="wpb_text_column wpb_content_element  vc_custom_1541771082876" ><div class="wpb_wrapper"><h2 style="text-align: left;"><span style="color: #333;">How does it work?</span></h2></div></div><div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1541771105333"><figure class="wpb_wrapper vc_figure"> <a href="../how-paysafe-works/index.html" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="950" height="480" src="../wp-content/uploads/2018/04/howitworks-charts-v2.png" class="vc_single_image-img attachment-full" alt="How it Works Infographic" srcset="https://www.paysafeescrow.com/wp-content/uploads/2018/04/howitworks-charts-v2.png 950w, https://www.paysafeescrow.com/wp-content/uploads/2018/04/howitworks-charts-v2-300x152.png 300w, https://www.paysafeescrow.com/wp-content/uploads/2018/04/howitworks-charts-v2-768x388.png 768w, https://www.paysafeescrow.com/wp-content/uploads/2018/04/howitworks-charts-v2-200x101.png 200w" sizes="(max-width: 950px) 100vw, 950px" /></a></figure></div></div></div></div></div></section></div></article></div><div id="sidebar" class="float-left"><li id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-vehicle-escrow-container"><ul id="menu-vehicle-escrow" class="menu"><li id="menu-item-5268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5219 current_page_item menu-item-5268"><a href="{{ route('vehicle.home') }}" aria-current="page">Vehicle Escrow Services</a></li><li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="buying-a-car-online/index.html">Buying a Car Online</a></li><li id="menu-item-5276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="protect-against-fraud/index.html">Protect Against Fraud</a></li><li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="help-me-transfer-my-title/index.html">Help Me Transfer My Title</a></li><li id="menu-item-5495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="how-paysafe-works-vehicles/index.html">How KingsTrust Works</a></li><li id="menu-item-5274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274"><a href="getting-started-vehicle/index.html">Getting Started</a></li><li id="menu-item-5273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5273"><a href="third-party-inspection-vehicle/index.html">Third-Party Inspection</a></li><li id="menu-item-5272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5272"><a href="shipping-your-vehicle/index.html">Shipping Your Vehicle</a></li><li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="paysafe-advantages/index.html">KingsTrust Advantages</a></li><li id="menu-item-5282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5282"><a href="selling-buying-vehicle-with-a-loan-on-it/index.html">Loan Payoff</a></li><li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5270"><a href="testimonials-vehicles/index.html">Testimonials</a></li></ul></div></li></div></div></div>
 
 @stop

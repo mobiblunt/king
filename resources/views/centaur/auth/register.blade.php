@@ -5,7 +5,7 @@
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
-        <title>Escrow Custodian Services</title>
+        <title>KingsTrust Escrow - Register</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
@@ -83,7 +83,7 @@
                             <div class="col col--md-auto">
                                 <div class="text--center">
                                     <a class="site-logo" href="/">
-                                        <img class="img-responsive" src="{{ url('/') }}/wp-content/themes/escrowcustodianservices/images/logo.png" alt="Cryptvault">
+                                        <img class="img-responsive" src="wp-content/uploads/2018/03/lago.png" alt="KingsTrust">
                                     </a>
                                 </div>
 

@@ -19,6 +19,15 @@ class DashiController extends Controller
 
 
     }
+    
+    
+    public function how() {
+
+        return view('how');
+
+
+    }
+
 
 
 
@@ -46,9 +55,16 @@ class DashiController extends Controller
     }
 
 
-    public function news() {
+    public function faq() {
 
         return view('news');
+
+
+    }
+    
+    public function api() {
+
+        return view('api');
 
 
     }

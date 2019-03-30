@@ -20,9 +20,9 @@ Route::get('about', 'DashiController@about')->name('about.home');
 Route::get('contact', 'DashiController@contact')->name('contact.home');
 Route::get('privacy', 'DashiController@privacy')->name('privacy.home');
 Route::get('boat-escrows', 'DashiController@robots')->name('robots.home');
-Route::get('aircraft-escrows', 'DashiController@steps')->name('steps.home');
+Route::get('heavy-equipment-escrows', 'DashiController@steps')->name('steps.home');
 Route::get('terms', 'DashiController@terms')->name('terms.home');
-Route::get('commercial-escrows', 'DashiController@affiliate')->name('affiliate.home');
+Route::get('machinery-escrows', 'DashiController@affiliate')->name('affiliate.home');
 
 Route::get('construction-escrows', 'DashiController@construction')->name('construction.home');
 
@@ -34,7 +34,7 @@ Route::get('property-escrows', 'DashiController@property')->name('property.home'
 
 Route::get('vehicle-escrows', 'DashiController@vehicle')->name('vehicle.home');
 
-Route::get('vehicle-escrows', 'DashiController@vehicle')->name('vehicle.home');
+Route::get('how-it-works', 'DashiController@how')->name('home.how');
 
 Route::get('introducers-agents', 'DashiController@agents')->name('agents.home');
 
@@ -42,7 +42,9 @@ Route::get('anti-money-laudering', 'DashiController@money')->name('money.home');
 
 Route::get('escrows', 'DashiController@escrow')->name('escrows.home');
 
-Route::get('news', 'DashiController@news')->name('news.home');
+Route::get('faq', 'DashiController@faq')->name('faq.home');
+
+Route::get('api', 'DashiController@api')->name('api.home');
 
 
 
