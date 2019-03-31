@@ -1,104 +1,19 @@
 @extends('fronthead') 
 
-@section('title', 'Construction Escrow')
+@section('title', 'Buying Cars Online - Kingstrust')
 
 @section('content')
 
-<div class="row-90">
-	<div class="tagline mb-150">
-		<h1 class="fs-48 fw-200 tac">Construction Escrows</h1>
-	</div>
-</div>
-<div class="bc-white py-40">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="fs-18 tac wdt-80 ctr">An ECS construction escrow account may be used to help to mitigate the risk of employer and / or contractor insolvency during construction projects.</p>
-<p class="fs-18 tac wdt-80 ctr"> </p>
-<p class="fs-18 tac wdt-80 ctr">The construction escrow account will effectively ring-fence an element of an employer’s money in a place where the contractor can see and use the money as security for interim payments. All too often we have heard of contractors being put out of business, perhaps due to the developer going into liquidation. Construction escrows can help to mitigate that risk.</p>
-<p class="fs-18 tac wdt-80 ctr"> </p>
-<p class="fs-18 tac wdt-80 ctr">Normally, in the event of insolvency, property that is held in trust is not included in the assets which may be distributed to the creditors. </p>
-		</div>
-	</div>
-</div>
-<div class="pb-40 bc-white">
-	<div class="row-90">
-		<div class="fluid-columns-1">
-			<div class="content-1 fluid-column-1">
-				<p class="fs-48 fw-200"><span class="fc-grey">Contractors Working Abroad</span></p>
-<p>&nbsp;</p>
-<p>Escrow accounts may be used where contracts involve work abroad and / or non-UK employers.</p>
-<p>&nbsp;</p>
-<p class="fs-48 fw-200"><span class="fc-grey">Construction Projects</span></p>
-<p>&nbsp;</p>
-<p>Clearly construction projects will have a wide variety of scale and size, but regardless of this the problems of delays, costs spiralling out of control and time-scales being constantly extended are similar. While not all construction problems can be resolved by a construction escrow contract on its own, it can go a long way towards imposing strict payment controls and alleviating trust issues.</p>
-<p>&nbsp;</p>
-<p>Escrow Custodian Services are able to hold funds and make disbursement at the various agreed stages providing that the agreed criteria are met. </p>
-			</div>
-			<div class="content-1 fluid-column-1">
-				<p class="fs-48 fw-200"><span class="fc-grey">Home Improvement / Construction Escrows</span></p>
-<p>&nbsp;</p>
-<p>Escrow accounts may be used within the home improvement industries.</p>
-<p>&nbsp;</p>
-<p>Many of us have heard tales of unscrupulous builders who take substantial deposits and payments up front for say, conservatories that appear to be not fit for purpose, or perhaps extensions that are not compliant with planning regulations &#8211; but the inverse is that there are probably many unscrupulous buyers who will make unreasonable demands in order to delay making payment.</p>
-<p>&nbsp;</p>
-<p>The construction escrows from Escrow Custodian Services can help to protect both buyer and seller from some unnecessary financial risk.</p>
-<p>&nbsp;</p>
-<p>Depending upon the scale and size of the home improvement contract, the contract can be constructed in order to offer draw-down schedule payments at each agreed phase and subject to completion as per agreement. </p>
-<p>&nbsp;</p>
-<p>As an escrow custodian, ECS are able to hold funds and make disbursements as agreed, without any constraint upon the period that we may hold these funds. </p>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="bc-white pb-40">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="tac fw-200 fs-36"><span class="fc-terquoise">Does this offer protection to the contractor?</span></p>
-<p class="tac"> </p>
-<p class="tac">Our construction escrows act to protect both parties, with payment being held by a neutral and independent third party.</p>
-		</div>
-	</div>
-</div>
-<div class="row-90 fc-white py-40">
-	<div class="column-7-24">
-		<div class="content-1 mb-20">
-			<p class="fs-52 fw-200"><span class="fc-light-grey">Enhanced Reputation</span></p>
-		</div>
-	</div>
-	<div class="column-2-24 empty">
-		<!-- Nothing to see here! -->
-	</div>
-	<div class="column-15-24">
-		<div class="content-1">
-			<p>Offering customers escrow accounts may be regarded by many as a positive offering &#8211; creating higher levels of trust to all concerned.<br /> </p>
-<p>Areas we may cover include:</p>
-<p>&nbsp;</p>
-<ul class="cc-2">
-<li><em>Home extensions</em></li>
-<li><em>Drive construction</em></li>
-<li><em>Loft conversions</em></li>
-<li><em>Sun rooms and conservatories</em></li>
-<li><em>Double glazing projects</em></li>
-<li><em>Kitchen / bathroom / wet room installations</em></li>
-<li><em>Roofing and thatching</em></li>
-<li><em>Barn conversions</em></li>
-<li><em>Solar projects</em></li>
-<li><em>Swimming pool builds</em></li>
-<li><em>Stable conversions</em></li>
-</ul>
-		</div>
-	</div>
-</div>
-<div class="py-40 bc-white">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="wdt-70 ctr fs-20 tac">To learn more or to discuss a specific application (without obligation) call <strong>0207 856 0129</strong> and speak to a member of the Escrow Custodian Services team or email support@escrowcustodianservices.net</p>
-		</div>
-	</div>
-</div>
 
-
-
-
+<div id="main" class="clearfix"><div class="header-wrap" style="background: url('wp-content/uploads/2018/07/vehicles-escrow-banner-2.jpg') no-repeat; background-size: cover;"><header class="entry-header"><h1 class="entry-title">Buying a Car Online</h1> <br /><p style="text-align: center;"><a href="{{ route('auth.register.form') }}"><button class="get-started">PRICING</button></a></p></header></div><div id="container" class="row-inner"><div id="content" class="float-right"><article id="post-5163" class="clearfix post-5163 page type-page status-publish has-post-thumbnail hentry" role="article"><div class="entry-content clearfix"><section  class="wpb_row main_row  no-seperator" style="text-align:left; background-color:#ffffff; color:#444751; padding-top:0; padding-bottom:60px;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><p>As a buyer, your next vehicle might not be available at a local dealership or from private sellers nearby. Online auctions and classified websites can make buying a car sight unseen straightforward and take the headache out of the process. When you’re not limited by geography, you can target your search by make, model and – most importantly – cost. Finding the car you want within your budget has never been easier.</p><p>When you buy a car online or in person, you expect to pay a specific amount. With the exception of <a href="{{ route('agents.home') }}">shipping</a> and third-party inspection costs, the price of a vehicle listed online is the amount a buyer can usually expect to actually pay. Unlike the sticker price on a car from a dealership, there are rarely hidden fees, upcharges or unexpected taxes. As a buyer, you don’t have to haggle with a salesperson over the price or talk them out of upselling you on additional features and coverage. As a seller, you don’t have to deal with a buyer who insists on paying less than your asking price. With KingsTrust<sup style="font-size: 9px;">®</sup> Escrow, buying or selling a car online is a secure and seamless process for all parties involved.</p><h3>Where to buy online</h3><p>Interested buyers and sellers can participate in a growing number of auction types.</p><h5>On-Site and Online Live Auctions</h5><p>Going once, going twice, sold&#8230;Sound familiar? Bidding takes place in real time and is conducted either online within a website or in person. The highest bidder wins and all participants are able to hear or see each bid as it arrives.</p><h5>Webcast Auctions</h5><p>Similar to live on-site auctions, these auctions are also conducted in real time, but the auctioneer and participants participate via webcast. Like on-site and online live auctions, the highest bidder walks away with the purchase.</p><h5>Sealed Bid Auctions</h5><p>Sealed bid auctions are structured to prevent participants from viewing or hearing one another’s bids. Bids are submitted to the auctioneer or auction house in sealed envelopes and the participant with the highest bidder wins.</p><h5>Timed Online Auctions</h5><p>Bidders have a number of hours, days or weeks to bid on the item in question. Interested bidders must ensure they have the last and highest bid when the auction closes to be awarded the purchase.<br /> For more tips about buying and selling vehicles online.</p></div></div></div></div></div></div></div></div></div></div></section><section  class="wpb_row main_row  no-seperator" style="padding-top:70px; padding-bottom:70px;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"></div></div></div></div></div></div></section></div></article></div><div id="sidebar" class="float-left"><li id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-vehicle-escrow-container">
+	
+	
+	
+	<ul id="menu-vehicle-escrow" class="menu"><li id="menu-item-5268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5219 current_page_item menu-item-5268"><a href="{{ route('vehicle.home') }}" >Vehicle Escrow Services</a></li><li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="{{ route('construction.home') }}" aria-current="page">Buying a Car Online</a></li><li id="menu-item-5276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="{{ route('fraudv.home') }}">Protect Against Fraud</a></li><li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="{{ route('industry.home') }}">Help Me Transfer My Title</a></li><li id="menu-item-5495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="{{ route('online.home') }}">How KingsTrust Works</a></li><li id="menu-item-5274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274"><a href="{{ route('property.home') }}">Getting Started</a></li><li id="menu-item-5273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5273"><a href="{{ route('thirdv.home') }}">Third-Party Inspection</a></li><li id="menu-item-5272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5272"><a href="{{ route('agents.home') }}">Shipping Your Vehicle</a></li><li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="{{ route('money.home') }}">KingsTrust Advantages</a></li><li id="menu-item-5282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5282"><a href="{{ route('escrows.home') }}">Loan Payoff</a></li><li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5270"><a href="{{ route('testimonial.home') }}">Testimonials</a></li></ul>
+	
+	
+	
+	
+	</div></li></div></div></div>
 
 @stop

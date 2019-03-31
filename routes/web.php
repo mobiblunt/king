@@ -23,24 +23,32 @@ Route::get('boat-escrows', 'DashiController@robots')->name('robots.home');
 Route::get('heavy-equipment-escrows', 'DashiController@steps')->name('steps.home');
 Route::get('terms', 'DashiController@terms')->name('terms.home');
 Route::get('machinery-escrows', 'DashiController@affiliate')->name('affiliate.home');
-
-Route::get('construction-escrows', 'DashiController@construction')->name('construction.home');
-
-Route::get('industrial-escrows', 'DashiController@industrial')->name('industry.home');
-
-Route::get('online-escrows', 'DashiController@online')->name('online.home');
-
-Route::get('property-escrows', 'DashiController@property')->name('property.home');
-
 Route::get('vehicle-escrows', 'DashiController@vehicle')->name('vehicle.home');
-
 Route::get('how-it-works', 'DashiController@how')->name('home.how');
 
-Route::get('introducers-agents', 'DashiController@agents')->name('agents.home');
+Route::get('buy-cars-online', 'DashiController@construction')->name('construction.home');
 
-Route::get('anti-money-laudering', 'DashiController@money')->name('money.home');
+Route::get('transfer-title-vehicle', 'DashiController@industrial')->name('industry.home');
 
-Route::get('escrows', 'DashiController@escrow')->name('escrows.home');
+Route::get('how-kingstrust-works-vehicles', 'DashiController@online')->name('online.home');
+
+Route::get('getting-started-vehicle', 'DashiController@property')->name('property.home');
+
+
+
+
+
+Route::get('shipping-your-vehicle', 'DashiController@agents')->name('agents.home');
+
+Route::get('kingstrust-advantages', 'DashiController@money')->name('money.home');
+
+Route::get('loan-payoff', 'DashiController@escrow')->name('escrows.home');
+
+Route::get('testimonial-vehicles', 'DashiController@testimonial')->name('testimonial.home');
+
+Route::get('fraud-vehicles', 'DashiController@fraudv')->name('fraudv.home');
+
+Route::get('third-party-vehicles', 'DashiController@thirdv')->name('thirdv.home');
 
 Route::get('faq', 'DashiController@faq')->name('faq.home');
 

@@ -1,108 +1,12 @@
 @extends('fronthead') 
 
-@section('title', 'What Are Escrows?')
+@section('title', 'Loan Payoff')
 
 @section('content')
 
 
 
-<div class="row-90">
-	<div class="tagline mb-150">
-		<p class="fs-48 fw-200 tac">What are Escrows?</p>
-	</div>
-</div>
-<div class="pt-50 pb-40 bc-white">
-	<div class="row-90">
-		<div class="fluid-columns-1">
-			<div class="content-1 fluid-column-1">
-				<p><span class="fs-48 fw-200 fc-grey">So what is an Escrow?</span></p>
-<p class="fs-6"> </p>
-<p>According to the ‘legal dictionary’: “ Something of value, such as a deed, stock, money, or written instrument, that is put into the custody of a third person by its owner, a grantor, an obligor, or a promisor, to be retained until the occurrence of a contingency or performance of a condition.”</p>
-<p>&nbsp;</p>
-<p>An escrow arrangement is an effective way of mitigating risk in a commercial transaction and is often used as an alternative to other often less flexible arrangements such as Letters of Credit, bank guarantees or to ensure the completion of financial transactions, especially where this may only be achieved over a period of time.</p>
-<p>&nbsp;</p>
-<p>The term escrow initially applied solely to the deposit of a formal instrument or document; however, it is popularly used to describe a deposit of money.</p>
-			</div>
-			<div class="content-1 fluid-column-1">
-				<p><span class="fs-48 fw-200 fc-grey">Why might I need an escrow service?</span></p>
-<p class="fs-6"> </p>
-<p>With the ever growing demands of e-commerce, higher transactional values and international trading expansion, escrow usage may be a service used in order to demonstrate degrees of integrity, security and transparency.</p>
-<p>&nbsp;</p>
-<p>The high growth in online business has seen an equally high growth in online fraud plus higher frequencies of goods or services being delivered, unfit for purpose.</p>
-<p>&nbsp;</p>
-<p>Escrow services are important when one or more parties to the transaction are located in different parts of the world, governed by different laws, and are equally important where parties operate within the same jurisdiction.</p>
-<p>&nbsp;</p>
-<p>In the modern world, crossing datelines and trying to deal with multi-jurisdictional territories can be stressful as well as risky, and utilising an escrow can provide not only financial protection but also promote integrity for both the buyer and supplier.</p>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="pb-40 bc-white">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="fw-200 fs-36 tac"><span class="fc-terquoise">Due diligence process beforehand</span></p>
-<p class="tac fs-6"> </p>
-<p class="tac fs-18">A due diligence process will be completed prior to the agreement of escrow terms.</p>
-		</div>
-	</div>
-</div>
-<div class="row-90 py-40">
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<p class="fw-200 fs-52"><span class="fc-light-grey">What are the advantages of using an escrow account?</span></p>
-		</div>
-	</div>
-	<div class="column-2-24 empty">
-		<!-- Nothing to see here! -->
-	</div>
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<p>The escrow account can offer advantages to both buyer and seller.</p>
-<p>&nbsp;</p>
-<p>The buyer may feel secure in knowing that the assets / funds are held within a “client escrow account” until such time as he or she satisfactorily receives the goods/ services etc., while the supplier knows that the funds are available once the transaction is complete.</p>
-<p>&nbsp;</p>
-<p>By utilising an escrow service, it is possible to eliminate the need for deposits, pre-payments or expensive Letters of Credit and to offer entirely cost-effective solutions.</p>
-<p>&nbsp;</p>
-<p>One great benefit of an escrow account is the preservation of the funds, even in the event of a bankruptcy of the fund holder. As the escrow account funds do not belong to the person holding them, they cannot be used to satisfy that person&#8217;s own creditors.</p>
-<p>&nbsp;</p>
-<p><span class="fs-36 fw-200">What are Custodian Services?</span></p>
-<p>&nbsp;</p>
-<p>Companies may require us to act as independent agents in order to provide safekeeping for perhaps pledged or non-pledged investments.</p>
-		</div>
-	</div>
-</div>
-<div class="bc-white">
-	<div class="row-90">
-		<div class="content-1 py-40">
-			<p class="fw-200 fs-36 tac"><span class="fc-grey">Longer periods held and multiple dispersion</span></p>
-<p class="fs-6 tac"> </p>
-<p class="tac wdt-80 ctr">Some escrow custodian providers may only hold monies for a relatively short period (7 days) &#8211; which is adequate for a number of transactions. At Escrow Custodian Services we are authorised to act as custodians and hold funds (for example) for whatever period is required.</p>
-<p class="tac wdt-80 ctr"> </p>
-<p class="tac wdt-80 ctr">We may also, as part of the escrow agreement, disperse funds in stages and disperse funds for multiple distribution.</p>
-		</div>
-	</div>
-</div>
-<div class="row-90 py-40">
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<p class="fw-200 fs-52"><span class="fc-light-grey">Simplification of the escrow process</span></p>
-		</div>
-	</div>
-	<div class="column-2-24 empty">
-		<!-- Nothing to see here! -->
-	</div>
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<ul>
-<li><em>We conduct due diligence checks and carry out Anti Money Laundering checks on an individual or company</em><br /><em>If the check is ok (99% are) we confirm so and give authority for funds to be sent to us</em></li>
-<li><em>We confirm receipt of funds</em></li>
-<li><em>We await trigger docs in order to release funds. Before release we complete a compliance call (we sometimes do this prior to receipt of funds too)</em></li>
-<li><em>Funds are released and we debit our agreed fees</em></li>
-</ul>
-		</div>
-	</div>
-</div>
 
-
+<div id="main" class="clearfix"><div class="header-wrap" style="background: url('../../wp-content/uploads/2018/07/vehicles-escrow-banner-2.jpg') no-repeat; background-size: cover;"><header class="entry-header"><h1 class="entry-title">Loan Payoff</h1> <br /><p style="text-align: center;"><a href="http://app.KingsTrustescrow.com/signup"><button class="btn-account">CREATE FREE ACCOUNT</button></a></p></header></div><div id="container" class="row-inner"><div id="content" class="float-right"><article id="post-5280" class="clearfix post-5280 page type-page status-publish has-post-thumbnail hentry" role="article"><div class="entry-content clearfix"><section  class="wpb_row main_row  no-seperator" style="text-align:left; background-color:#ffffff; color:#444751; padding-top:0px; padding-bottom:60px;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><p>Are you a seller with a loan on your vehicle or a buyer who may need additional financing? We’ve partnered with Autopay, an online vehicle loan marketplace, to remove all barriers associated with the private sale and purchase of motor vehicles with outstanding loan commitments.</p><p>The KingsTrust<sup style="font-size: 9px;">®</sup>-AUTOPAY combination is unique in that it allows buyers and sellers who do not have a relationship or history of doing business to safely and securely transfer funds, clearing outstanding loan obligations on the part of the seller while simultaneously facilitating the transfer of title to the buyer.</p></div></div><div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1532959191620"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="300" src="../../wp-content/uploads/2018/07/vehicle-image-3.jpg" class="vc_single_image-img attachment-full" alt="Loan Payoff" srcset="https://www.paysafeescrow.com/wp-content/uploads/2018/07/vehicle-image-3.jpg 800w, https://www.paysafeescrow.com/wp-content/uploads/2018/07/vehicle-image-3-300x113.jpg 300w, https://www.paysafeescrow.com/wp-content/uploads/2018/07/vehicle-image-3-768x288.jpg 768w, https://www.paysafeescrow.com/wp-content/uploads/2018/07/vehicle-image-3-200x75.jpg 200w" sizes="(max-width: 800px) 100vw, 800px" /></div></figure></div><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><p>The service’s workflow is easy to use and handles all aspects of the transaction including clearing an outstanding loan, documenting the purchase agreements and bills of sale, transmitting funds between buyer and seller and transferring the vehicle title.</p><p>If you are attempting to buy or sell a vehicle that currently has a loan on it, please complete the form below, and one of client service representatives will contact you.</p></div></div><div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div><div class="wpb_raw_code wpb_raw_js" ><div class="wpb_wrapper"> <script type="text/javascript">var loc = "https://analytics.clickdimensions.com/accruitcom-ao41l/pages/";</script> <script type="text/javascript" src="../../../az124611.vo.msecnd.net/web/v10/CDWidget.js"></script> <div pageID="zorspdteeibtahg2rxoq"></div></div></div></div></div></div></div></div></div></div></div></section><section  class="wpb_row main_row  no-seperator" style="padding-top:70px; padding-bottom:70px;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div></section></div></article></div><div id="sidebar" class="float-left"><li id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-vehicle-escrow-container"><ul id="menu-vehicle-escrow" class="menu"><li id="menu-item-5268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5219 current_page_item menu-item-5268"><a href="{{ route('vehicle.home') }}" aria-current="page">Vehicle Escrow Services</a></li><li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="{{ route('construction.home') }}">Buying a Car Online</a></li><li id="menu-item-5276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="{{ route('fraudv.home') }}">Protect Against Fraud</a></li><li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="{{ route('industry.home') }}">Help Me Transfer My Title</a></li><li id="menu-item-5495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="{{ route('online.home') }}">How KingsTrust Works</a></li><li id="menu-item-5274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274"><a href="{{ route('property.home') }}">Getting Started</a></li><li id="menu-item-5273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5273"><a href="{{ route('thirdv.home') }}">Third-Party Inspection</a></li><li id="menu-item-5272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5272"><a href="{{ route('agents.home') }}">Shipping Your Vehicle</a></li><li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="{{ route('money.home') }}">KingsTrust Advantages</a></li><li id="menu-item-5282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5282"><a href="{{ route('escrows.home') }}">Loan Payoff</a></li><li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5270"><a href="{{ route('testimonial.home') }}">Testimonials</a></li></ul></div></li></div></div></div>
 
 @stop

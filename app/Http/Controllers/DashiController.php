@@ -62,6 +62,33 @@ class DashiController extends Controller
 
     }
     
+    
+    public function thirdv() {
+
+        return view('thirdv');
+
+
+    }
+    
+    
+    
+    public function fraudv() {
+
+        return view('fraudv');
+
+
+    }
+    
+    public function testimonial() {
+
+        return view('testimonial');
+
+
+    }
+    
+    
+    
+    
     public function api() {
 
         return view('api');
@@ -100,6 +127,13 @@ public function vehicle() {
 
 
     }
+    
+    public function agents() {
+
+        return view('shipv');
+
+
+    }
 
 
 
@@ -107,7 +141,7 @@ public function vehicle() {
 
     public function industrial() {
 
-        return view('construction');
+        return view('vehiclet');
 
 
     }

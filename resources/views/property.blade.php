@@ -1,89 +1,10 @@
 @extends('fronthead') 
 
-@section('title', 'Property Escrow')
+@section('title', 'Getting Started Vehicle')
 
 @section('content')
 
 
-<div class="row-90">
-	<div class="tagline mb-150">
-		<h1 class="fs-48 fw-200 tac">Property Escrows</h1>
-	</div>
-</div>
-<div class="py-40 bc-white">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="tac ctr fs-18 wdt-80">Property escrows or real-estate escrows have been used in the United States for a number of years and are best known where a mortgage company establishes an escrow account in which to lodge and pay property tax and insurance for the term of the mortgage.</p>
-<p class="tac ctr fs-18 wdt-80"> </p>
-<p class="tac ctr fs-18 wdt-80">Since a mortgage lender is not willing to take the risk that a homeowner will not pay property tax, escrow is usually required under the mortgage terms.</p>
-<p class="tac ctr fs-18 wdt-80"> </p>
-<p class="tac ctr fs-18 wdt-80">However, as the world has changed, and as property investment across country borders has increased, the escrow account has become more important in order to mitigate risk.</p>
-		</div>
-	</div>
-</div>
-<div class="pb-40 bc-white">
-	<div class="row-90">
-		<div class="fluid-columns-1">
-			<div class="content-1 fluid-column-1">
-				<p class="fs-48 fw-200"><span class="fc-grey">European and UK property escrows</span></p>
-<p>&nbsp;</p>
-<p>Within Europe, escrows have been used in the property market to protect deposits, or for time share properties, for lease-to-purchase agreements or, indeed, for rental agreements where the landlord has a duty to maintain the property as a part of the rental agreement.</p>
-<p>&nbsp;</p>
-<p>An escrow can be a means of protecting deposits if, for example, a purchaser wishes to buy a property from a developer. Both the purchaser and developer can select an escrow agent with conditions for release of the deposit to the developer &#8211; such as completion of title checks, planning permission approvals, etc.</p>
-			</div>
-			<div class="content-1 fluid-column-1">
-				<p class="fs-48 fw-200"><span class="fc-grey">Buying a property overseas</span></p>
-<p>&nbsp;</p>
-<p>Property buying abroad has always carried a degree of risk.</p>
-<p>&nbsp;</p>
-<p>There are many good estate agents abroad but in some countries the industry is less regulated than in the UK.</p>
-<p>&nbsp;</p>
-<p>Typically, a buyer would transfer the deposit to an escrow account &#8211; where neither party can get at the funds until the sale is finalised.</p>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="pb-40 bc-white">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="tac fs-36 fw-200"><span class="fc-terquoise">Good faith or goodwill deposits</span></p>
-<p class="tac"> </p>
-<p class="tac ctr wdt-80">In some countries it is common practice for good faith deposits to be placed in escrow accounts in order to seal the sale, with specific conditions for withdrawing from the sale complete with financial penalties if either party withdraws from the sale outside the agreed terms.</p>
-<p class="tac ctr wdt-80"> </p>
-<p class="tac ctr wdt-80">Even in specific states in the United States, such as Florida, it is normal for a purchaser to pay a goodwill deposit prior to making a formal offer in the form of a purchase contract.</p>
-		</div>
-	</div>
-</div>
-<div class="row-90 py-40">
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<p class="fs-36 fw-200">Property escrows for rental issues</p>
-<p>&nbsp;</p>
-<p>The rent escrow is a strong recourse for tenants who may otherwise have difficulty getting a landlord to maintain a property as agreed. These types of escrows are currently common practice in countries such as Greece.</p>
-<p>&nbsp;</p>
-<p>Rental is paid directly into an escrow account and, as long as the property is maintained to the standard agreed in the terms of the escrow, then the monies are released to the landlord. Clearly there are equal agreed terms by which the tenant must look after the property and stipulations upon the tenant to make the landlord aware of any problems.</p>
-		</div>
-	</div>
-	<div class="column-2-24 empty">
-	<!-- Nothing to see here! -->
-	</div>
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<p class="fs-36 fw-200">Buy-to-Let escrows</p>
-<p>&nbsp;</p>
-<p>Rental escrow accounts may also facilitate the transfer of property related to a rent-to-buy property.</p>
-<p>&nbsp;</p>
-<p>The escrow account functions by facilitating the transfer of the property according to the terms set out in the lease-to-own contract. The owner of the property would receive the funds at the time of the transfer of property ownership.</p>
-		</div>
-	</div>
-</div>
-<div class="bc-white py-40">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="fs-20 tac wdt-70 ctr">To learn more or to discuss a specific application (without obligation) call <strong>0207 856 0129</strong> and speak to a member of the Escrow Custodian Services team or email support@escrowcustodianservices.net</p>
-		</div>
-	</div>
-</div>
-
+<div id="main" class="clearfix"><div class="header-wrap" style="background: url('../../wp-content/uploads/2018/07/vehicles-escrow-banner-2.jpg') no-repeat; background-size: cover;"><header class="entry-header"><h1 class="entry-title">Getting Started</h1> <br /><p style="text-align: center;"></p></header></div><div id="container" class="row-inner"><div id="content" class="float-right"><article id="post-5177" class="clearfix post-5177 page type-page status-publish has-post-thumbnail hentry" role="article"><div class="entry-content clearfix"><section  class="wpb_row main_row  no-seperator" style="text-align:left; background-color:#ffffff; color:#444751; padding-top:0px; padding-bottom:60px;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><h5>Purchase Agreement Basics</h5><p>Purchase agreements are required in a number of scenarios. Interstate commerce requires that purchase agreements are included with any shipments. International commerce requires purchase agreements in order to pass the item through a customs office. The government also requires a purchase agreement for tax purposes.</p><p>When buying or selling a car online, you need to gather, complete and exchange specific documents before a sale can be finalized. The bill of sale — sometimes called a purchase agreement — varies slightly according to the vehicle or item you’re selling. There are plenty of online templates that can be used or easily adapted for your transaction. While purchase agreements for a vehicle don’t need to be overly complex, these details should always be included:</p><ul><li>Total purchase price</li><li>Purchase date</li><li>Details as to how payment will be completed – especially if there are multiple payments or payment is contingent on items like repairs, completed projects or inspections.</li><li>Current location and condition of the item being sold</li><li>Description (make, model and any upgrades)</li><li>Odometer reading</li><li>Vehicle identification number</li><li>Name/address of buyer and seller</li><li>Driver’s license number of buyer/seller</li><li>Seller’s statement of vehicle ownership</li><li>Seller’s statement that there are outstanding debts against the vehicle (if applicable)</li><li>Seller’s statement that there are no outstanding debts against the vehicle (if applicable)</li><li>Item(s) being sold and any warranties or representations, or whether the item is being sold ‘as-is’</li><li>Dated signatures of the buyer(s) and seller(s)</li><li>Jurisdiction of disputes</li></ul><p>Aside from the bill of sale and title, the seller should provide warranty details, maintenance records and any other documentation before the final sale of the vehicle. The seller should also cancel insurance for the vehicle once the sale is final. While usually not required, notarizing all paperwork to validate signatures is wise.</p><p>This written agreement allows both the buyer and the seller to plan for the worst-case scenario. While most transactions occur seamlessly, preparing for everything else guarantees that both parties can rest easily knowing that a plan of action is in place.</p></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 40px" ><span class="vc_empty_space_inner"></span></div><div class="separator_simple" style="border-color:#e2e2e2;"></div><div class="vc_empty_space"   style="height: 40px" ><span class="vc_empty_space_inner"></span></div><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><h5 style="text-align: center;">Ready to get started? Set up a free account today and allow KingsTrust<sup style="font-size: 9px;">®</sup> to walk you through the transaction process.</h5></div></div><div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><p style="text-align: center;"><a href="http://app.KingsTrustescrow.com/"><button class="get-started">GET STARTED</button></a></p></div></div></div></div></div></div></div></div></div></div></section></div></article></div><div id="sidebar" class="float-left"><li id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-vehicle-escrow-container"><ul id="menu-vehicle-escrow" class="menu"><li id="menu-item-5268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5219 current_page_item menu-item-5268"><a href="{{ route('vehicle.home') }}" aria-current="page">Vehicle Escrow Services</a></li><li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="{{ route('construction.home') }}">Buying a Car Online</a></li><li id="menu-item-5276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="{{ route('fraudv.home') }}">Protect Against Fraud</a></li><li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="{{ route('industry.home') }}">Help Me Transfer My Title</a></li><li id="menu-item-5495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="{{ route('online.home') }}">How KingsTrust Works</a></li><li id="menu-item-5274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274"><a href="{{ route('property.home') }}">Getting Started</a></li><li id="menu-item-5273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5273"><a href="{{ route('thirdv.home') }}">Third-Party Inspection</a></li><li id="menu-item-5272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5272"><a href="{{ route('agents.home') }}">Shipping Your Vehicle</a></li><li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="{{ route('money.home') }}">KingsTrust Advantages</a></li><li id="menu-item-5282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5282"><a href="{{ route('escrows.home') }}">Loan Payoff</a></li><li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5270"><a href="{{ route('testimonial.home') }}">Testimonials</a></li></ul></div></li></div></div></div>
 
 @stop

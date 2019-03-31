@@ -1,78 +1,11 @@
 @extends('fronthead') 
 
-@section('title', 'Online Escrow')
+@section('title', 'How Kingstrust works - Vehicles')
 
 @section('content')
 
-<div class="row-90">
-	<div class="tagline mb-150">
-		<h1 class="fs-48 fw-200 tac">Valuable On-line Trading Escrow</h1>
-	</div>
-</div>
-<div class="py-40 bc-white">
-	<div class="row-90 pb-40 bb-light-grey">
-		<div class="content-1">
-			<p class="fs-18 tac wdt-80 ctr">With so much trade being conducted over the internet today, escrows being used more commonly to hold funds.</p>
-<p class="fs-18 tac wdt-80 ctr"> </p>
-<p class="fs-18 tac wdt-80 ctr">Escrows on the internet have existed since the start of popular internet auctions but many of us are only just seeing relevance and use.</p>
-		</div>
-	</div>
-</div>
-<div class="bc-white pb-40">
-	<div class="row-90">
-		<div class="content-1 cc-2 cg-80 cr-light-grey">
-			<p class="fs-48 fw-200"><span class="fc-grey">Escrow for on-line transactions</span></p>
-<p>&nbsp;</p>
-<p>With any number of transactions online taking place between anonymous persons, where it may be hard to tell which country the various parties are based – it is hardly surprising that the issue of security of funds is questioned.</p>
-<p>&nbsp;</p>
-<p class="fs-48 fw-200"><span class="fc-grey">Home-working and freelance escrows</span></p>
-<p>&nbsp;</p>
-<p>Many of us today work from home. And perhaps we submit freelance work to all parts of the globe without ever having met with the client. As with all international trade, the laws concerning transactions, facilities and methods of chasing arrears all differ, so it may be seen as a benefit to have an escrow account managed by a regulated and neutral third-party.</p>
-<p>&nbsp;</p>
-<p>Escrow Custodian Services can receive the funds and disburse them online, inclusive of multiple disbursements as per the transaction agreement. The monies are held in an escrow account which is held by an authorised and independent third-party, with the monies being released once both parties verify the completion of the transaction.</p>
-<p>&nbsp;</p>
-<p>If any dispute takes place then it is taken to dispute resolution.</p>
-<p>&nbsp;</p>
-<p>In today’s world almost anything can be traded online, such as:</p>
-<p>&nbsp;</p>
-<ul>
-<li>General merchandise</li>
-<li>General online auctions</li>
-<li>Commodities</li>
-<li>Cryptocurrency</li>
-<li>Vehicles</li>
-<li>Services</li>
-<li>Intellectual property</li>
-<li>Milestone transactions – such as services provided whereby payments are disbursed at agreed milestone intervals</li>
-</ul>
-<p>&nbsp;</p>
-<p>With the increase in internet fraud, the European Union introduced the Payment Services Directive in November 2009. This allowed low-cost government-regulated escrow services to operate on the internet, and thereby to enhance security for online commercial transactions.</p>
-		</div>
-	</div>
-</div>
-<div class="row-90 py-40">
-	<div class="column-11-24">
-		<div class="content-1 mb-20 fc-white">
-			<p class="fs-52 fw-200"><span class="fc-terquoise">Buyer Beware</span></p>
-		</div>
-	</div>
-	<div class="column-2-24 empty">
-	<!-- Nothing to see here! -->
-	</div>
-	<div class="column-11-24">
-		<div class="content-1 fc-white">
-			<p>A number of bogus methods of escrow have been employed online, the main one being that in auctions the seller proposes a specific third-party escrow service which is actually a bogus service probably set up by the seller. Remember that the escrow service should be neutral and should not be “linked” to the seller. </p>
-		</div>
-	</div>
-</div>
-<div class="py-40 bc-white">
-	<div class="row-90">
-		<div class="content-1">
-			<p class="wdt-70 ctr fs-20 tac">To learn more or to discuss a specific application (without obligation) call <strong>0207 856 0129</strong> and speak to a member of the Escrow Custodian Services team or email support@escrowcustodianservices.net</p>
-		</div>
-	</div>
-</div>
 
+<div id="main" class="clearfix"><div class="header-wrap" style="background: url('../../wp-content/uploads/2018/07/vehicles-escrow-banner-2.jpg') no-repeat; background-size: cover;"><header class="entry-header"><h1 class="entry-title">How KingsTrust Works</h1> <br /><p style="text-align: center;"><a href="http://app.KingsTrustescrow.com/signup"><button class="btn-account">CREATE FREE ACCOUNT</button></a></p></header></div><div id="container" class="row-inner"><div id="content" class="float-right"><article id="post-5392" class="clearfix post-5392 page type-page status-publish has-post-thumbnail hentry" role="article"><div class="entry-content clearfix"><section  class="wpb_row main_row  no-seperator" style="text-align:left; background-color:#ffffff; color:#444751; padding-top:0px; padding-bottom:0;"><div class="row-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element " ><div class="wpb_wrapper"><p>If you have ever purchased real estate or looked into the process, you’re likely familiar with the  term “escrow.” An escrow account is a bank account overseen by a neutral third party. While they are usually associated with expensive purchases, escrow accounts aren’t unique to real estate – they prove useful for anyone looking to maintain accountability between two parties in a high-value transaction.</p><p><a href="../../how-KingsTrust-works/index.html">View KingsTrust<sup style="font-size: 9px;">®</sup>&#8216;s six-step process</a>.</p><p>When you find the vehicle you want to purchase, you might feel stuck interacting with a relative stranger for a purchase of significant value. How do you hold the seller accountable and avoid falling victim to an online scam? KingsTrust<sup style="font-size: 9px;">®</sup> Escrow builds a trustworthy bridge between buyers and sellers.</p><p>After the auctioneer or third-party inspection service verifies the condition of the equipment and you’re ready to buy or sell, it’s time for the money to change hands. The protection services that are available on many popular auction sites often have limits on the transaction amount for which they will guarantee protection. They are almost always heavily weighted in favor of the buyer.</p><p>KingsTrust<sup style="font-size: 9px;">®</sup> Escrow has created a safe, neutral payment processing platform that protects both buyers and sellers equally. With KingsTrust<sup style="font-size: 9px;">®</sup> Escrow, a buyer and seller approve a single purchase agreement, which can be reviewed at any point during the sales transaction. Purchase funds are then wired to, verified and held by KingsTrust<sup style="font-size: 9px;">®</sup> until the buyer has proof that the item has been shipped. This prevents the typical risk of sending your payment to a stranger. When the proof of shipping has been provided, the payment is approved and funds are wired directly into the seller’s bank account of choice. We remove the risks associated with non-payment, insufficient funds, fraudulent checks and credit card chargebacks. By confirming the authenticity of a sales listing with a third-party inspection and transmitting funds through KingsTrust<sup style="font-size: 9px;">®</sup> Escrow, your transaction is secure from start to finish. With this safe, neutral payment processing platform, purchasing equipment sight unseen has never been more convenient for buyers and sellers alike.</p></div></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div></div></div></section></div></article></div><div id="sidebar" class="float-left"><li id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-vehicle-escrow-container"><ul id="menu-vehicle-escrow" class="menu"><li id="menu-item-5268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5219 current_page_item menu-item-5268"><a href="{{ route('vehicle.home') }}" aria-current="page">Vehicle Escrow Services</a></li><li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="{{ route('construction.home') }}">Buying a Car Online</a></li><li id="menu-item-5276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5276"><a href="{{ route('fraudv.home') }}">Protect Against Fraud</a></li><li id="menu-item-5277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5277"><a href="{{ route('industry.home') }}">Help Me Transfer My Title</a></li><li id="menu-item-5495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="{{ route('online.home') }}">How KingsTrust Works</a></li><li id="menu-item-5274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274"><a href="{{ route('property.home') }}">Getting Started</a></li><li id="menu-item-5273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5273"><a href="{{ route('thirdv.home') }}">Third-Party Inspection</a></li><li id="menu-item-5272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5272"><a href="{{ route('agents.home') }}">Shipping Your Vehicle</a></li><li id="menu-item-5271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5271"><a href="{{ route('money.home') }}">KingsTrust Advantages</a></li><li id="menu-item-5282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5282"><a href="{{ route('escrows.home') }}">Loan Payoff</a></li><li id="menu-item-5270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5270"><a href="{{ route('testimonial.home') }}">Testimonials</a></li></ul></div></li></div></div></div>
 
 
 @stop
